@@ -1,0 +1,10 @@
+{
+    "name": "passportjs-express-example",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "express": ">=3.0.0rc3",
+        "passport": "*",
+        "passport-twitter": "*"
+    }
+}
