@@ -1,7 +1,7 @@
 passportjs-express-example
 ==========================
 
-Passportjs basic working example as I felt the docs were too scattered to know how to hit the ground running.
+Passportjs basic working example using Twitter oauth as I felt the documentation at http://passportjs.org/ was too scattered to easily hit the ground running.
 
 Running the app with your credentials
 -------------------------------------
